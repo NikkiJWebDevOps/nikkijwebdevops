@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dslnikkiabq Nikki :) 
+- 👋 Hi, I’m @nikkijwebdevops Nikki :) 
 - 👀 I’m interested in ... working Software Front End Developing.
 - 🌱 I’m currently learning ... how to use JS, Ruby, HTML, CSS, Bootstrap all the fun stuff!
 - 💞️ I’m looking to collaborate on ... building my portfolio to attain a fantastic job! 
